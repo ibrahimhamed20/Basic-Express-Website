@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css?family=KoHo');
+* {
+  font-family: 'KoHo', sans-serif;
+}
+body {
+  padding-top: 4.5rem;
+}
+
+a {
+  color: #00B7FF;
+}
+
+.navbar-brand {
+  font-size: 30px;
+}
+
+.navbar-nav .nav-link {
+  font-size: 20px;
+  margin-left: 20px;
+  text-transform: capitalize;
+  letter-spacing: 1px;
+}
+
+.jumbotron {
+  background: url('../images/11.jpg');
+  background-size: cover;
+}
