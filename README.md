@@ -1,5 +1,5 @@
 # Basic-Express-Website
-Basic Website based on Express.js Framework.
+Basic Website based on Express.js Framework with bootstrap 4.
 
 # Project Description & Features:-
 - installing & setting up express.
@@ -13,5 +13,5 @@ Basic Website based on Express.js Framework.
 - page routes and views.
 - nodemailer setup.
 
-#What i learned from this project ?
+# What i learned from this project ?
 -> I learned how to setup a full basic express website with multi pages, a template and a working contact form.
