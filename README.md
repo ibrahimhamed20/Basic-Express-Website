@@ -14,4 +14,4 @@ Basic Website based on Express.js Framework with bootstrap 4.
 - nodemailer setup.
 
 # What i learned from this project ?
--> I learned how to setup a full basic express website with multi pages, a template and a working contact form.
+I learned how to setup a full basic express website with multi pages, a template and a working contact form.
